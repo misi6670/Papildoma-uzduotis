@@ -12,4 +12,3 @@ Tuomet rezultatai bus išvedami į du failus:
 1. Į failą "rez.txt" išvedama lentelė, kurioje nurodomas žodis (kuris pasikartoja daugiau nei kartą), kiek kartų tas žodis pasikartoja ir kuriose pastraipose žodis buvo rastas (skaičiuojamos tik ne tuščios pastraipos).
 2. Į failą "rezURL.txt" išvedamami tekste rasti URL adresai tokiu pavidalu - "https://www.vu.lt/" arba "sutrumpintu" pavidalu: "www.vu.lt" priklausomai nuo to, kaip jie buvo parašyti tekste.
 Programa baigia darbą, procesas sustabdomas.
-
