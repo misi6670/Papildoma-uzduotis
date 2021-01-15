@@ -21,8 +21,6 @@ int main()
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
             cout << "Veskite failo pavadinima dar karta: ";
-            //cin >> name;
-            //file.open(name + ".txt", ios::in);
         }
     } while (!file);
 
