@@ -1,7 +1,6 @@
 # Papildoma-uzduotis
 Ši programa skaičiuoja kiek kartų kiekvienas skirtingas žodis pasikartoja vartotojo nurodytame tekstiniame faile. Išoriniame faile išvedami tik tie žodžiai, kurie pasikartojo dažniau negu 1 kartą ir šalia jų nurodoma kiek kartų žodis pasikartojo ir kurioje teksto netuščioje pastraipoje tas žodis buvo rastas. Į kitą išorinį failą išvedami vartotojo nurodytame tekstiniame faile rasti URL adresai.
 
-EgzPrakt.cpp Kodas.h Kodas.cpp
 1. Naudojamos bibliotekos aprašytos ***Kodas.h*** faile
 2. Naudojamos funkcijos surašytos ***Kodas.cpp*** ir ***EgzPrakt.cpp*** failuose
 3. **Kodas.h** biblioteka naudojama **Kodas.cpp** ir **EgzPrakt.cpp** failuose
